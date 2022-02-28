@@ -1,0 +1,20 @@
+Part 1- Introduction to JavaScript
+Part 2- What is DOM (Document Object Model)? How to write a JavaScript program ?
+Part 3- Visual Studio Code| Live server Extension | JavaScript Comments & Statements
+Part 4- JavaScript Variables & Data Types
+Part 5- JavaScript Operators
+Part 6- Conditional Statements in JavaScript | If | If else | switch case
+Part 7- Loops & Jumping statements in JavaScript | while | do while | for
+Part 8- Functions in JavaScript
+Part 9- Working with Objects in JavaScript
+Part 10- Arrays in JavaScript
+Part 11- Array Methods in JavaScript
+Part 12- Date Constructor in JavaScript | How To Create Digital Clock using JS
+Part 13- Strings & Numbers in JavaScript
+Part 14- OOPS - Class, Object, Methods & Constructor in JavaScript
+Part 15- OOPS - static keyword in JavaScript
+Part 16- OOPS - Encapsulation in JavaScript
+Part 17- OOPS - Inheritance | Overriding | super Keyword in JavaScript
+Part 18- OOPS - Prototype in JavaScript
+Part 19- OOPS - Polymorphism in JavaScript
+Part 20- Converting a JSON Text to a JavaScript Object

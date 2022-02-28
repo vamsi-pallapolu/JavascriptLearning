@@ -1,0 +1,40 @@
+<html>
+    <head>
+        Calculator
+    </head>
+    <body>
+        <input id="value1"/>
+        <input id="value2"/>
+        <button id="addBtn">Add</button>
+        <button id="subBtn">Sub</button>
+        <button id="mulBtn">Mul</button>
+        <p id="res"> </p>
+    </body>
+    <script>
+        document.getElementById("addBtn").onclick=add;
+        document.getElementById("subBtn").onclick=sub;
+        document.getElementById("mulBtn").onclick=mul;
+
+        function add(){
+            let a=document.getElementById("value1").value;
+            let b=document.getElementById("value2").value;
+            let res=parseInt(a)+parseInt(b);
+            document.getElementById("res").innerHTML=res;
+        }
+
+        function sub(){
+            let a=document.getElementById("value1").value;
+            let b=document.getElementById("value2").value;
+            let res=parseInt(a)-parseInt(b);
+            document.getElementById("res").innerHTML=res;
+        }
+        
+        function mul(){
+            let a=document.getElementById("value1").value;
+            let b=document.getElementById("value2").value;
+            let res=parseInt(a)*parseInt(b);
+            document.getElementById("res").innerHTML=res;
+        }
+        
+    </script>
+</html>
